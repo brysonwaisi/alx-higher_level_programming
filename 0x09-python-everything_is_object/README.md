@@ -60,7 +60,7 @@ single-line `.txt` files.
 ```
 
 * **8. Is really equal**
-  * [8-answer.txt](./1-answer.txt): What do these 3 lines print?
+  * [8-answer.txt](./8-answer.txt): What do these 3 lines print?
 ```
 >>> s1 = "Holberton"
 >>> s2 = "Holberton"
